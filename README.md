@@ -1,4 +1,3 @@
-# actividad_usuarioUNAB
 # Actividad MongoDB - usuarioUNAB
 
 Este repositorio contiene la actividad práctica de MongoDB.
