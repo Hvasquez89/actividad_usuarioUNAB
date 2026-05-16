@@ -26,4 +26,4 @@ clientes
 
 ## Documentación con capturas
 Google Sheets:
-[PEGAR_AQUI_EL_LINK](https://docs.google.com/document/d/1JqrW86KulrN5lbfHeh55f-XzPOcoy2dLcfMybMzwECo/edit?usp=sharing)
+https://docs.google.com/document/d/1JqrW86KulrN5lbfHeh55f-XzPOcoy2dLcfMybMzwECo/edit?usp=sharing
